@@ -9,7 +9,7 @@ class Arquivo {
 	
 	protected $header;
 	
-	protected $detalhesRO = array();
+	protected  $detalhesRO = array();
 	
 	protected $trailer;
 	
