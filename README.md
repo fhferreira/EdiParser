@@ -1,7 +1,7 @@
 # EdiParser
 Parser para o arquivo do tipo EDI, transmitido pela Cielo para conciliação bancária
 
-
+> Versão customizada do https://github.com/Pandora-una/EdiParser para Conciliação de cartões de Crédito.
 
 
 
